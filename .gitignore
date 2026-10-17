@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.streamlit/secrets.toml
+# Private or user-supplied material must never be published.
+data/scout_notes.csv
+data/*notes*.csv
+data/private_*
+private/
+# Data snapshots broncos_plays.csv and bo_nix_ngs_weekly.csv are intentionally tracked
+# after you review their publication licensing and contents.

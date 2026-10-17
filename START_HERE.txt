@@ -1,0 +1,21 @@
+BUGLING BULLS | BRONCOS INTELLIGENCE CENTER v0.2
+==============================================
+
+YOU CAN TEST THIS NEW VERSION WITHOUT CHANGING v0.1.
+
+1. Unzip these files into a NEW folder in Documents.
+2. Open that new folder with VS Code (File > Open Folder).
+3. In VS Code, use Terminal > New Terminal.
+4. Paste this exact command and press Enter:
+
+   powershell -ExecutionPolicy Bypass -File .\START_BRONCOS.ps1
+
+5. Open http://localhost:8504 in your browser.
+
+This first launch must have Internet access to install packages and load
+real NFL data. No fictional or sample Broncos data will be shown.
+
+TO MAKE A WEBSITE YOUR FRIENDS CAN USE:
+See README.md: Create a shareable website.
+
+DO NOT publish your old scout_notes.csv or personal analysis files.
