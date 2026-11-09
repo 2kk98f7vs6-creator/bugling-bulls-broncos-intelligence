@@ -1,5 +1,5 @@
 {
-  "data_sha256": "f1fcc95b6bf6cf5d64d9b01ad8f148b699636ecd0db384c135182ff1650ef382",
+  "data_sha256": "15850e2cc2489809f259f5d5dc9662bbbf2afbc96eb57ced06f74af4f01abd5b",
   "defensive_personnel_plays": 4256,
   "games": 43,
   "offensive_personnel_plays": 4017,
@@ -9,9 +9,6 @@
     2025,
     2026
   ],
-  "source_errors": [
-    "2024: ConnectionError: Failed to download https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2024.parquet: 504 Server Error: Gateway Time-out for url: https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2024.parquet",
-    "2025: ConnectionError: Failed to download https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2025.parquet: 504 Server Error: Gateway Time-out for url: https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2025.parquet"
-  ],
-  "updated_utc": "2026-11-09T07:58:10+00:00"
+  "source_errors": [],
+  "updated_utc": "2026-11-09T22:59:08+00:00"
 }
