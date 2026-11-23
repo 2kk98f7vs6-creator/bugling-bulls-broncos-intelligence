@@ -1,14 +1,14 @@
 {
-  "data_sha256": "c17fcf18eca7d5142d3c40df1a77c380f2aaf85114d51bb528bf4cd8ec2c47f7",
+  "data_sha256": "0e48a33aa72797a6a1dd1c375bebcb06745a2c688a4334f1a37039063201e63c",
   "defensive_personnel_plays": 4256,
-  "games": 43,
+  "games": 44,
   "offensive_personnel_plays": 4017,
-  "plays": 5381,
+  "plays": 5515,
   "seasons": [
     2024,
     2025,
     2026
   ],
   "source_errors": [],
-  "updated_utc": "2026-11-18T21:25:50+00:00"
+  "updated_utc": "2026-11-23T08:59:49+00:00"
 }
