@@ -1,5 +1,5 @@
 {
-  "data_sha256": "0e48a33aa72797a6a1dd1c375bebcb06745a2c688a4334f1a37039063201e63c",
+  "data_sha256": "859b632604410d210b6c87c63244dd628fac7d7390740aebc49ef667903f5ede",
   "defensive_personnel_plays": 4256,
   "games": 44,
   "offensive_personnel_plays": 4017,
@@ -10,5 +10,5 @@
     2026
   ],
   "source_errors": [],
-  "updated_utc": "2026-11-23T08:59:49+00:00"
+  "updated_utc": "2026-11-24T00:49:28+00:00"
 }
